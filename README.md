@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Yesid Loaiza Osuna</h1>
+<h1 align="center">Hola, soy Yesid Loaiza Osuna</h1>
 
 <h3 align="center">
 Full Stack Developer | Backend Developer | SaaS & Logistics Solutions
