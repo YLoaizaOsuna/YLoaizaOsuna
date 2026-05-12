@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hola 👋, soy Yesid Loaiza Osuna</h1>
 
 <h3 align="center">
@@ -165,9 +164,7 @@ www.linkedin.com/in/yesidloaizaosuna
 
 📍 Bogotá, Colombia
 
----
 
 <p align="center">
 🚀 Siempre construyendo soluciones tecnológicas reales.
 </p>
-```
