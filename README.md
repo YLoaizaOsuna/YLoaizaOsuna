@@ -10,7 +10,7 @@ Apasionado por desarrollar soluciones tecnológicas escalables enfocadas en log�
 
 ---
 
-## 🚀 Sobre mí
+##  Sobre mí
 
 Soy Economista con especialización en Gerencia de Mercadeo y desarrollador Full Stack orientado a la creación de software empresarial y soluciones digitales para sectores con baja adopción tecnológica.
 
